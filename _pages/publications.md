@@ -27,7 +27,5 @@ YJ Han, JT Watson, GD Stucky, A Butler. 2002. Catalytic activity of mesoporous s
 
 
 Technical Reports  
-<ol reversed>
-<li>2)	Guthrie C. M. III, Nguyen Hv T, Marsh M, Watson JT, Guyon JR. 2020. Genetic stock composition analysis of the Chinook salmon (Oncorhynchus tshawytscha) bycatch from the 2018 Bering Sea walleye trawl fisheries. U.S. Dep. Commer., NOAA Tech. Memo. NMFS-AFSC-XXX.</li>
-<li>1)	Guthrie C. M. III, Nguyen Hv T, Marsh M, Watson JT, Guyon JR. 2019. Genetic stock composition analysis of the Chinook salmon (Oncorhynchus tshawytscha) bycatch from the 2017 Bering Sea walleye trawl fisheries. U.S. Dep. Commer., NOAA Tech. Memo. NMFS-AFSC-391.</li>
-</ol reversed>
+Guthrie C. M. III, Nguyen Hv T, Marsh M, Watson JT, Guyon JR. 2020. Genetic stock composition analysis of the Chinook salmon (Oncorhynchus tshawytscha) bycatch from the 2018 Bering Sea walleye trawl fisheries. U.S. Dep. Commer., NOAA Tech. Memo. NMFS-AFSC-XXX.
+Guthrie C. M. III, Nguyen Hv T, Marsh M, Watson JT, Guyon JR. 2019. Genetic stock composition analysis of the Chinook salmon (Oncorhynchus tshawytscha) bycatch from the 2017 Bering Sea walleye trawl fisheries. U.S. Dep. Commer., NOAA Tech. Memo. NMFS-AFSC-391.
