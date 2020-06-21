@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-Baker MR, Kivva K, Pisareva MN, Watson JT, Selivanovna J. 2020. Shifts in the physical environment in the Pacific Arctic and implications for ecological timing and conditions. In Press: Deep Sea Research II. doi.org/10.1016/j.dsr2.2020.104802
+<ol reverse>
+19. Baker MR, Kivva K, Pisareva MN, Watson JT, Selivanovna J. 2020. Shifts in the physical environment in the Pacific Arctic and implications for ecological timing and conditions. In Press: Deep Sea Research II. doi.org/10.1016/j.dsr2.2020.104802
 
-Droghini A, Fischbach AS, Watson JT, Reimer JP. 2020. Limits to bioinvasions in the Bering Sea: Predicting suitable conditions from regional ocean models. ICES Journal of Marine Science. 77(3): 964-974. doi:10.1093/icesjms/fsaa014
+18. Droghini A, Fischbach AS, Watson JT, Reimer JP. 2020. Limits to bioinvasions in the Bering Sea: Predicting suitable conditions from regional ocean models. ICES Journal of Marine Science. 77(3): 964-974. doi:10.1093/icesjms/fsaa014
 
-McKuin BL, Watson JT, Haynie AC, Campbell, JE. 2019. Climate forcing by battered-and-breaded fillets and crab-flavored sticks from Alaska pollock. Elementa Science of the Anthropocene. 7: 48. DOI: https://doi.org/10.1525/elementa.386
+17. McKuin BL, Watson JT, Haynie AC, Campbell, JE. 2019. Climate forcing by battered-and-breaded fillets and crab-flavored sticks from Alaska pollock. Elementa Science of the Anthropocene. 7: 48. DOI: https://doi.org/10.1525/elementa.386
+</ol reverse>
 
 Watson JT. 2019. Spatial and temporal visualizations of satellite-derived sea surface temperatures for Alaska fishery management areas. Pacific States e-Journal of Scientific Visualizations. Article 003. doi: 10.28966/PSESV.2019.003
 Beaudreau, AH, Ward EW, Brenner RE, Andrew O, Shelton AO, Watson JT, Womack JC, Anderson S, Haynie AC, Marshall KN, Williams BC. 2019. Thirty years of change and the future of Alaskan fisheries: Shifts in fishing participation and diversification in response to environmental, regulatory, and economic pressures. Fish and Fisheries. doi.org/10.1111/faf.12364
