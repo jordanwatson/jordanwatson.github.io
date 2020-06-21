@@ -24,8 +24,3 @@ Kobb K, Westphal N, Sayani H, Watson JT, Di Lorenzo E, Cheng H, Edwards R Charle
 Watson JT, Lennert-Cody CE, Essington TE, Hall MA. 2009. Trade-offs in the design of fishery closures: silky shark bycatch management in the eastern Pacific Ocean tuna purse seine fishery. Conservation Biology 23 (3): 626-635.
 Hansman RL, Griffin S, Watson JT, Druffel E, Ingalls AE, Pearson A, Aluwihare LI. 2009. The radiocarbon signature of microbial organisms in the mesopelagic ocean. Proceedings of the National Academy of Sciences 106(16): 6513-6518
 YJ Han, JT Watson, GD Stucky, A Butler. 2002. Catalytic activity of mesoporous silicate-immobilized chloroperoxidase. Journal of Molecular Catalysis B: Enzymatic. 17(1):1-8.
-
-
-Technical Reports  
-Guthrie C. M. III, Nguyen Hv T, Marsh M, Watson JT, Guyon JR. 2020. Genetic stock composition analysis of the Chinook salmon (Oncorhynchus tshawytscha) bycatch from the 2018 Bering Sea walleye trawl fisheries. U.S. Dep. Commer., NOAA Tech. Memo. NMFS-AFSC-XXX.
-Guthrie C. M. III, Nguyen Hv T, Marsh M, Watson JT, Guyon JR. 2019. Genetic stock composition analysis of the Chinook salmon (Oncorhynchus tshawytscha) bycatch from the 2017 Bering Sea walleye trawl fisheries. U.S. Dep. Commer., NOAA Tech. Memo. NMFS-AFSC-391.
