@@ -42,5 +42,4 @@ author_profile: true
 0. Hansman RL, Griffin S, Watson JT, Druffel E, Ingalls AE, Pearson A, Aluwihare LI. 2009. The radiocarbon signature of microbial organisms in the mesopelagic ocean. Proceedings of the National Academy of Sciences 106(16): 6513-6518
 
 0. YJ Han, JT Watson, GD Stucky, A Butler. 2002. Catalytic activity of mesoporous silicate-immobilized chloroperoxidase. Journal of Molecular Catalysis B: Enzymatic. 17(1):1-8.
-
 {: reversed="reversed"}
