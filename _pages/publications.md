@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+0. **Watson JT**, Stram DL, Harmon J. 2020. Mitigating seafood waste through a bycatch donation program. Frontiers in Marine Science. frontiersin.org/articles/10.3389/fmars.2020.576431/
+
 0. Baker MR, Kivva K, Pisareva MN, **Watson JT**, Selivanovna J. 2020. Shifts in the physical environment in the Pacific Arctic and implications for ecological timing and conditions. In Press: Deep Sea Research II. doi.org/10.1016/j.dsr2.2020.104802
 
 0. Droghini A, Fischbach AS, **Watson JT**, Reimer JP. 2020. Limits to bioinvasions in the Bering Sea: Predicting suitable conditions from regional ocean models. ICES Journal of Marine Science. 77(3): 964-974. doi:10.1093/icesjms/fsaa014
