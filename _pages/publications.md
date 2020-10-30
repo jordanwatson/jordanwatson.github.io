@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-0. **Watson JT**, Stram DL, Harmon J. 2020. Mitigating seafood waste through a bycatch donation program. Frontiers in Marine Science. frontiersin.org/articles/10.3389/fmars.2020.576431/
+0. **Watson JT**, Stram DL, Harmon J. 2020. Mitigating seafood waste through a bycatch donation program. Frontiers in Marine Science. https://www.frontiersin.org/articles/10.3389/fmars.2020.576431/full
 
 0. Baker MR, Kivva K, Pisareva MN, **Watson JT**, Selivanovna J. 2020. Shifts in the physical environment in the Pacific Arctic and implications for ecological timing and conditions. Deep Sea Research II. Vol 177: doi.org/10.1016/j.dsr2.2020.104802
 
