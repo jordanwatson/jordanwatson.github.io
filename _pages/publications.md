@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+0. McKuin, BL, **Watson JT**, Stohs SM, Campbell JE. 2021. Rethinking sustainability in seafood: Synergies and trade-offs between fisheries and climate change. Accepted: Elementa Science of the Anthropocene.
+
 0. Shelton AO, Sullaway G, Ward EJ, Somers K, Tuttle V, **Watson JT**, Satterthwaite WH. Ocean distribution of Chinook salmon stocks shift under future ocean climates. Fish and Fisheries. In Press: https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12530
 
 0. **Watson JT**, Stram DL, Harmon J. 2020. Mitigating seafood waste through a bycatch donation program. Frontiers in Marine Science. https://www.frontiersin.org/articles/10.3389/fmars.2020.576431/full
