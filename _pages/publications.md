@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-0. McKuin, BL, **Watson JT**, Stohs SM, Campbell JE. 2021. Rethinking sustainability in seafood: Synergies and trade-offs between fisheries and climate change. Accepted: Elementa Science of the Anthropocene.
+0. McKuin, BL, **Watson JT**, Stohs SM, Campbell JE. 2021. Rethinking sustainability in seafood: Synergies and trade-offs between fisheries and climate change. Elementa: Science of the Anthropocene, 9 (1): 00081. https://doi.org/10.1525/elementa.2019.00081.
 
-0. Shelton AO, Sullaway G, Ward EJ, Somers K, Tuttle V, **Watson JT**, Satterthwaite WH. Ocean distribution of Chinook salmon stocks shift under future ocean climates. Fish and Fisheries. In Press: https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12530
+0. Shelton AO, Sullaway G, Ward EJ, Somers K, Tuttle V, **Watson JT**, Satterthwaite WH. 2021. Ocean distribution of Chinook salmon stocks shift under future ocean climates. Fish and Fisheries. Vol 22(3):503-517. https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12530
 
 0. **Watson JT**, Stram DL, Harmon J. 2020. Mitigating seafood waste through a bycatch donation program. Frontiers in Marine Science. https://www.frontiersin.org/articles/10.3389/fmars.2020.576431/full
 
@@ -19,7 +19,7 @@ author_profile: true
 
 0. **Watson JT**. 2019. Spatial and temporal visualizations of satellite-derived sea surface temperatures for Alaska fishery management areas. Pacific States e-Journal of Scientific Visualizations. Article 003. doi: 10.28966/PSESV.2019.003
 
-0. Beaudreau, AH, Ward EW, Brenner RE, Andrew O, Shelton AO, **Watson JT**, Womack JC, Anderson S, Haynie AC, Marshall KN, Williams BC. 2019. Thirty years of change and the future of Alaskan fisheries: Shifts in fishing participation and diversification in response to environmental, regulatory, and economic pressures. Fish and Fisheries. doi.org/10.1111/faf.12364
+0. Beaudreau, AH, Ward EW, Brenner RE, Andrew O, Shelton AO, **Watson JT**, Womack JC, Anderson S, Haynie AC, Marshall KN, Williams BC. 2019. Thirty years of change and the future of Alaskan fisheries: Shifts in fishing participation and diversification in response to environmental, regulatory, and economic pressures. Fish and Fisheries. Vol 20(4):601-619. doi.org/10.1111/faf.12364
 
 0. **Watson JT**, Haynie AC, Sullivan PJ, Perruso L, O’Farrell S, Sanchirico JN, Mueter F.J. 2018. Using Vessel monitoring systems (VMS) to quantify fisher responses to regulatory change. Fisheries Research. 207: 85-94. DOI: 10.1016/j.fishres.2018.06.006.
 
