@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+0. Pons M, Watson JT, Ovando D, Andraka S, Brodie S, Domingo A, Fitchett M, Forselledo R, Hall M, Hazen E, Jannot J, Herrera M, Jiménez S, Kerwath S, López J, McVeigh J, Pacheco L, Rendon L, Richerson K, Sant’Ana R, Sharma R, Smith J, Somers K, Hilborn R. 2022. Trade-offs between bycatch and target catches in static versus dynamic fishery closures. Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.2114508119
+ 
+0. Watson JT, Callahan MW. 2021. Automated and operational access to environmental data for Alaska’s management areas. AFSC Processed Report 2021-06. https://repository.library.noaa.gov/view/noaa/33498
+
 0. McKuin, BL, **Watson JT**, Stohs SM, Campbell JE. 2021. Rethinking sustainability in seafood: Synergies and trade-offs between fisheries and climate change. Elementa: Science of the Anthropocene, 9 (1): 00081. https://doi.org/10.1525/elementa.2019.00081.
 
 0. Shelton AO, Sullaway G, Ward EJ, Somers K, Tuttle V, **Watson JT**, Satterthwaite WH. 2021. Ocean distribution of Chinook salmon stocks shift under future ocean climates. Fish and Fisheries. Vol 22(3):503-517. https://onlinelibrary.wiley.com/doi/full/10.1111/faf.12530
