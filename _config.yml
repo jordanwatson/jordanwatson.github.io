@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jordan T. Watson"
 title_separator          : "-"
 name                     : &name "Jordan T. Watson"
-description              : &description "Fisheries Scientist @ NOAA AFSC"
+description              : &description "Deputy Director at Pacific Islands Ocean Observing System"
 url                      : https://jordanwatson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jordanwatson/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jordan T. Watson"
   avatar           : "profile.jpg"
-  bio              : "Fisheries Scientist @AFSC Auke Bay Labs"
-  location         : "Juneau, AK"
+  bio              : "Deputy Director at Pacific Islands Ocean Observing System"
+  location         : "Honolulu, HI"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oir9FcYAAAAJ&hl=en"
