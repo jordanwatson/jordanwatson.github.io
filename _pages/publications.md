@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+0. Suter J, Ames R, Holycross B, Watson JT. 2022. Comparing observed and unobserved fishing characteristics in the drift gillnet fishery for swordfish. Fisheries Research. In Press
+
+0. Shotwell, SK, Pirtle JL, Watson JT, et al. 2022. Synthesizing integrated ecosystem research to create informed stock-specific indicators for next generation stock assessments. Deep-Sea Research II Topical Studies in Oceangraphy. 198: 105070. https://doi.org/10.1016/j.dsr2.2022.105070
+
 0. Pons M, Watson JT, Ovando D, Andraka S, Brodie S, Domingo A, Fitchett M, Forselledo R, Hall M, Hazen E, Jannot J, Herrera M, Jiménez S, Kerwath S, López J, McVeigh J, Pacheco L, Rendon L, Richerson K, Sant’Ana R, Sharma R, Smith J, Somers K, Hilborn R. 2022. Trade-offs between bycatch and target catches in static versus dynamic fishery closures. Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.2114508119
  
 0. Watson JT, Callahan MW. 2021. Automated and operational access to environmental data for Alaska’s management areas. AFSC Processed Report 2021-06. https://repository.library.noaa.gov/view/noaa/33498
