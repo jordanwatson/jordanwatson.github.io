@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I love data! I love to share, visualize, collect, and tell stories with data. I love to think about creative new ways to solve problems with ocean data. And I think that data are critical for solving many of the environmental and climate challenges we face today.
+I love data! I love to share, visualize, collect, and tell stories with data. I love to think about creative new ways to solve problems with ocean data, as data are critical for solving many of the environmental challenges we face today.
 
-To leverage more opportunities to lead advances in ocean data, I recently took a position as the Deputy Director for the Pacific Islands Ocean Observing System ([PacIOOS](www.pacioos.hawaii.edu)). I am excited to engage in data collaborations across the Pacific Islands, as well as with our partners at the other regional ocean observing systems. 
+To leverage more opportunities to lead advances in ocean data, I recently became the Deputy Director for the Pacific Islands Ocean Observing System ([PacIOOS](www.pacioos.hawaii.edu)). I am excited to engage in data collaborations across the Pacific Islands, as well as with our partners at the other regional ocean observing systems. 
 
-Prior to joining PacIOOS, I spent more than ten years with NOAA Fisheries - first as a contractor at the Pacific Islands and Alaska Fisheries Science Centers (AFSC), and later as a federal scientist at the AFSC. A highlight of my time at NOAA was a six month leadership detail as the acting Deputy Director for the [NOAA Center for Artificial Intelligence](noaa.gov/ai), an exciting NOAA effort to leverage opportunities and efficiencies offered by innovative data technologies like AI. 
+Prior to PacIOOS, I spent more than ten years with NOAA Fisheries - first as a contractor at the Pacific Islands and Alaska Fisheries Science Centers (AFSC), and later as a federal scientist at the AFSC. A highlight of my time at NOAA was a six month leadership detail as the acting Deputy Director for the [NOAA Center for Artificial Intelligence](noaa.gov/ai), an exciting NOAA effort to leverage opportunities and efficiencies offered by innovative data technologies like AI. 
 
 At the AFSC, I was based for ten years in Juneau, Alaska. My research explored how environmental drivers shape the distributions of fish and the fishing fleets that target them. I used a suite of quantitative tools and data types and worked  to build more automated data systems capable of integrating satellite data (e.g., environmental and vessel tracking information) with fishery survey, landings, economic, and bycatch data. I am particularly interested in how such opreational data products can support bycatch mitigation efforts. 
   
