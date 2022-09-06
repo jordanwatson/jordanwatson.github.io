@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-0. Suter J, Ames R, Holycross B, Watson JT. 2022. Comparing observed and unobserved fishing characteristics in the drift gillnet fishery for swordfish. Fisheries Research. In Press
+0. Suter J, Ames R, Holycross B, Watson JT. 2022. Comparing observed and unobserved fishing characteristics in the drift gillnet fishery for swordfish. Fisheries Research. In Press. https://doi.org/10.1016/j.fishres.2022.106456
 
 0. Shotwell, SK, Pirtle JL, Watson JT, et al. 2022. Synthesizing integrated ecosystem research to create informed stock-specific indicators for next generation stock assessments. Deep-Sea Research II Topical Studies in Oceangraphy. 198: 105070. https://doi.org/10.1016/j.dsr2.2022.105070
 
