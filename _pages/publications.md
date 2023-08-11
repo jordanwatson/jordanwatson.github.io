@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+0. Welch W, Savoca MS, Brodie S, Jacox MG, Muhling BA, Clay TA, Cimino MA, Benson SR, Block BA, Conners MG, Costa DP, Jordan FD, Leising AW, Mikles CL, Palacios DM, Shaffer SA, Thorne LH, **Watson JT**, Holser RR, Dewitt L, Bograd SJ, Hazen EL. 2023. Impacts of marine heatwaves on top predator distributions are variable but predictable. Nature Communications. Accepted
+
 0. Rubbens P, Brodie S, Cordier T, Destro Barcellos D, Devos P, Fernandes-Salvador JA, Fincham J, Gomes A, Handegard NO, Howell K, Jamet C, Heldal Kartveit K, Moustahfid H, Parcerisas C, Politikos D, Sauzede R, Sokolova M, Uusitalo L, Van den Bulcke L, van Helmond ATM, **Watson JT**, Welch H, Beltra-Perez O, Chaffron S, Greenberg DS, Kuhn B, Kiko R, Lo M, Lopes RM, ove Moller K, Michaels W, Villasante S, Malde K, Irisson JO. 2023. Machine learning in marine ecology: an overview of techniques and applications. ICES Journal of Marine Science. 10.1093/icesjms/fsad100.
 
 0. Suter J, Ames R, Holycross B, **Watson JT**. 2022. Comparing observed and unobserved fishing characteristics in the drift gillnet fishery for swordfish. Fisheries Research. https://doi.org/10.1016/j.fishres.2022.106456
