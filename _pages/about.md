@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 I have been fortunate to spend a career working across marine science disciplines around the globe. These experiences have inspired a passion for people, data, and scientific leadership. 
-I am currently the Deputy Director for the Pacific Islands Ocean Observing System ([PacIOOS](www.pacioos.hawaii.edu)),one of 11 regional associations that comprise the U.S. Integrated Ocean Observing System. I support the organization’s efforts to meet our mission by providing ocean data and data services to stakeholders across the Hawaiian Islands, U.S. Pacific territories, and the freely associated states. These duties range from internal and external partnership building and fiscal management to organizational operations and staffing.  
+
+I am currently the Deputy Director for the Pacific Islands Ocean Observing System ([PacIOOS](www.pacioos.hawaii.edu)), one of 11 regional associations that comprise the U.S. Integrated Ocean Observing System. I support the organization’s efforts to meet our mission by providing ocean data and data services to stakeholders across the Hawaiian Islands, U.S. Pacific territories, and the freely associated states. These duties range from internal and external partnership building and fiscal management to organizational operations and staffing.  
 
 Previously, I spent more than ten years with NOAA Fisheries - first as a contractor at the Pacific Islands and Alaska Fisheries Science Centers (AFSC), and later as a federal scientist at the AFSC. A highlight of my time at NOAA was a six month leadership detail as the acting Deputy Director for the [NOAA Center for Artificial Intelligence](noaa.gov/ai), an exciting NOAA effort to leverage innovative technologies like AI.  
 
