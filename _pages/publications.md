@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 
+0. Langan JA, Cunningham C, **Watson JT**, McKinnell S. 2024. Opening the black box: New insights into the role of temperature in the marine distributions of Pacific salmon. Fish and Fisheries. 10.1111/faf.12825.
+
 0. Nielsen JM, Sigler MF, Eisner LB, **Watson JT**, Rogers LA, Bell SW, Pelland N, Mordy CW, Cheng W, Kivva K, Osborne S, Stabeno P. 2023. Spring phytoplankton bloom phenology during recent climate warming on the Bering Sea Shelf. Progress in Oceanography. doi.org/10.1016/j.pocean.2023.103176.
 
 0. **Watson JT**, Ames, RT, Holycross B, Suter JM, Somers K, Kohler C, Corrigan B. 2023. Fishery catch records support machine learning-based prediction of illegal fishing off U.S. west coast. PeerJ. 11:e16215 https://doi.org/10.7717/peerj.16215
