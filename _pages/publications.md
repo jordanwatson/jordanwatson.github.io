@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+0. Welch H, Ames R, Beukema P, Kolla N, Kroodsma DA, Marsaglia L, Russo T, **Watson JT**, Hazen EL. 2024. Harnessing AI to map global fishing vessel activity. One Earth. doi.org/10.1016/j.oneear.2024.09.009
 
+0. Newton J, Wisdom S, Iwamoto M, Carini R, **Watson JT**, Boulay S, Mactavish D, Hagen J, Schumacher J, Rudolph D, Kattil-Debrum D, Tuaua P, Brown E, Hopson J, Evans J. 2025. Backyard Buoys: Meeting needs of coastal, Indigenous communities through co-design and co-production. Oceanography. doi.org/10.5670/oceanog.2025.105.
+    
 0. Langan JA, Cunningham C, **Watson JT**, McKinnell S. 2024. Opening the black box: New insights into the role of temperature in the marine distributions of Pacific salmon. Fish and Fisheries. 10.1111/faf.12825.
 
 0. Nielsen JM, Sigler MF, Eisner LB, **Watson JT**, Rogers LA, Bell SW, Pelland N, Mordy CW, Cheng W, Kivva K, Osborne S, Stabeno P. 2023. Spring phytoplankton bloom phenology during recent climate warming on the Bering Sea Shelf. Progress in Oceanography. doi.org/10.1016/j.pocean.2023.103176.
