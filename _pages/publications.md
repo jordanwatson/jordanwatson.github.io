@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+0. Ward EJ, Anderson SC, Barnett LAK, English PA, Berger HM, Commander CJ, Essington TE, Harvey CJ, Hunsicker ME, Jacox M, Johnson KF, Large S, Liu OR, Richerson KE, Samhouri JF, Siedlecki SA, Shelton AO, Somers KA, **Watson JT**. Win, lose, or draw: evaluating dynamic thermal niches of northeast Pacific groundfish. PLOS Climate. Accepted
+
 0. Welch H, Ames R, Beukema P, Kolla N, Kroodsma DA, Marsaglia L, Russo T, **Watson JT**, Hazen EL. 2024. Harnessing AI to map global fishing vessel activity. One Earth. doi.org/10.1016/j.oneear.2024.09.009
 
 0. Newton J, Wisdom S, Iwamoto M, Carini R, **Watson JT**, Boulay S, Mactavish D, Hagen J, Schumacher J, Rudolph D, Kattil-Debrum D, Tuaua P, Brown E, Hopson J, Evans J. 2025. Backyard Buoys: Meeting needs of coastal, Indigenous communities through co-design and co-production. Oceanography. doi.org/10.5670/oceanog.2025.105.
