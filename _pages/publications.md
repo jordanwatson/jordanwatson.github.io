@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 0. Ward EJ, Anderson SC, Barnett LAK, English PA, Berger HM, Commander CJ, Essington TE, Harvey CJ, Hunsicker ME, Jacox M, Johnson KF, Large S, Liu OR, Richerson KE, Samhouri JF, Siedlecki SA, Shelton AO, Somers KA, **Watson JT**. Win, lose, or draw: evaluating dynamic thermal niches of northeast Pacific groundfish. PLOS Climate. Accepted
+
+0. Kuhn B, Cayetano A, Fincham JI, Moustahfid H, Sokolova M, Rifonova N, **Watson JT**, Fernandes-Salvador JA, Uusitalo L. 2024. Machine Learning applications for fisheries - at scales from genomics to ecosystems. Reviews in Fisheries Science and Aquaculture. doi.org/10.1080/23308249.2024.2423189. 
 
 0. Welch H, Ames R, Beukema P, Kolla N, Kroodsma DA, Marsaglia L, Russo T, **Watson JT**, Hazen EL. 2024. Harnessing AI to map global fishing vessel activity. One Earth. doi.org/10.1016/j.oneear.2024.09.009
 
