@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* 2022 - Present; Deputy Director, Pacific Islands Ocean Observing System, Honolulu, HI    
+* 2025 - Present; Director, Canadian Integrated Ocean Observing System Pacific Region, Victoria, BC    
+* 2022 - 2025; Deputy Director, Pacific Islands Ocean Observing System, Honolulu, HI    
 * 2021 - 2022; Acting Deputy Director, NOAA Center for Artificial Intelligence (6mo detail), Remote from Juneau, AK    
 * 2016 - 2022; Mathematical Statistician, Auke Bay Laboratories, Alaska Fisheries Science Center, National Marine Fisheries Service, Juneau, AK  
 * 2012 - 2016; Data Management Specialist 2, Pacific States Marine Fisheries Commission, Juneau, AK   
