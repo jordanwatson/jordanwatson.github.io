@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+0. Ames RT, Barry PD, Callahan MW, Leuthold N, Wischniowski S, Neil JC, Gravel S, Scott T, Adams BH, Christman EI, **Watson JT**. 2026. Employing deep learning for chum salmon (Oncorhynchus keta) age estimation through scale image analysis. Canadian Journal of Fishery and Aquatic Sciences. Minor revisions.
+
 0. Welch H, Holycross BM, Cluett AA, Jacox MG, Braby CE, Callahan MW, Cullen JA, Farchadi N, Seary R, **Watson JT**, Bograd SJ, Hazen EL. 2025. Fishers as Ecosystem Sentinels. Proceedings of the National Academy of Sciences. 10.1073/pnas.2516308122
 
 0. Ward EJ, Anderson SC, Barnett LAK, English PA, Berger HM, Commander CJ, Essington TE, Harvey CJ, Hunsicker ME, Jacox M, Johnson KF, Large S, Liu OR, Richerson KE, Samhouri JF, Siedlecki SA, Shelton AO, Somers KA, **Watson JT**. 2024. Win, lose, or draw: evaluating dynamic thermal niches of northeast Pacific groundfish. PLOS Climate. 10.1371/journal.pclm.0000454
