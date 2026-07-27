@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jordan T. Watson"
 title_separator          : "-"
 name                     : &name "Jordan T. Watson"
-description              : &description "Deputy Director at Pacific Islands Ocean Observing System"
+description              : &description "Director, Pacific Region, Canadian Integrated Ocean Observing System"
 url                      : https://jordanwatson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jordanwatson/academicpages.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jordan T. Watson"
   avatar           : "profile.jpg"
-  bio              : "Deputy Director at Pacific Islands Ocean Observing System"
-  location         : "Honolulu, HI"
+  bio              : "Director, Pacific Region, Canadian Integrated Ocean Observing System"
+  location         : "Victoria, BC"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oir9FcYAAAAJ&hl=en"
-  email            : "jordan.watson@hawaii.edu"
+  email            : "jordanwatson@oceannetworks.ca"
   researchgate     : "https://www.researchgate.net/profile/Jordan_Watson"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JordanTWatson1"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
