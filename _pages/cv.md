@@ -17,6 +17,7 @@ Education
 
 Work experience
 ======
+* 2026 - Present; Director of Science, Ocean Networks Canada, Victoria, BC
 * 2025 - Present; Director, Canadian Integrated Ocean Observing System Pacific Region, Victoria, BC    
 * 2022 - 2025; Deputy Director, Pacific Islands Ocean Observing System, Honolulu, HI    
 * 2021 - 2022; Acting Deputy Director, NOAA Center for Artificial Intelligence (6mo detail), Remote from Juneau, AK    
